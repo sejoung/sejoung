@@ -4,7 +4,12 @@
 
 앙투안 드 생텍쥐페리, 어린 왕자의 저자
 
+소프트웨어는 빌딩 처럼 물리적으로 제한되지 않는다. 그것은 상상력, 디자인, 조직에 의해 제한이 됩니다. 간단히 말해, 그것은 세상의 속성이 아니라 사람의 속성에 의해 제한됩니다. 
+"우리 적을 만났고 그는 우리입니다.”
 
+Ralph Johnson
+
+[Who Needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
 [![sejoung's github stats](https://github-readme-stats.vercel.app/api?username=sejoung)](https://github.com/anuraghazra/github-readme-stats)
 
