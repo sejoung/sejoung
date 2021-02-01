@@ -11,6 +11,15 @@ Ralph Johnson
 
 [Who Needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
+
+
+
+* `목적의식 있는 연습`은 명확하고 구체적인 목표를 가지고 있다.
+* `목적의식 있는 연습`에는 집중이 필요하다.
+* `목적의식 있는 연습`에는 피드백이 필요하다.
+* `목적의식 있는 연습`은 자신의 컴포트 존에서 벗어날 것을 요구한다.
+
+
 [![sejoung's github stats](https://github-readme-stats.vercel.app/api?username=sejoung)](https://github.com/anuraghazra/github-readme-stats)
 
 
