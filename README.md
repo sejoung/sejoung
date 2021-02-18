@@ -1,4 +1,4 @@
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsejoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 `배를 만들고 싶다면, 사람들을 시켜 나무를 모으고 역할을 나누고 명령을 내리면서 북을 칠 것이 아니라, 거대하고 끝없는 바다를 갈망하게 만들어라.` 
 
@@ -10,8 +10,6 @@
 Ralph Johnson
 
 [Who Needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
-
-
 
 
 * `목적의식 있는 연습`은 명확하고 구체적인 목표를 가지고 있다.
