@@ -7,7 +7,11 @@
 소프트웨어는 빌딩 처럼 물리적으로 제한되지 않습니다. 그것은 상상력, 디자인, 조직에 의해 제한이 됩니다. 간단히 말해, 그것은 세상의 속성이 아니라 사람의 속성에 의해 제한됩니다. 
 "우리는 적을 만났고 그는 우리입니다.”
 
+Software is not limited by physics, like buildings are. It is limited by imagination, by design, by organization. In short, it is limited by properties of people, not by properties of the world.
+
 Ralph Johnson
+
+
 
 [Who Needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
