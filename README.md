@@ -18,6 +18,7 @@ Ralph Johnson
 * `목적의식 있는 연습`에는 집중이 필요하다.
 * `목적의식 있는 연습`에는 피드백이 필요하다.
 * `목적의식 있는 연습`은 자신의 컴포트 존에서 벗어날 것을 요구한다.
+[![My GitFut card](https://gitfut.com/sejoung.png)](https://gitfut.com/sejoung)
 
 
 <!--
